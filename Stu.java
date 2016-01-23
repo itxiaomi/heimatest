@@ -3,4 +3,9 @@ class Stu{
 	int age;
  
 	int number
+
+
+	public void eat(){
+		syso: eat;
+	}
 }
